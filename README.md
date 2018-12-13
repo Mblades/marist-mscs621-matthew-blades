@@ -2,6 +2,8 @@
 
 ## Intro
 
+As the world becomes ever connected with the help of the internet, communication between the diffrent languages is an ever present problem. A good translator helps solve this problem.
+
 This application is deigned to help a user translate text from english to a diffrent language of the user's choice. The user enters text into the left textbox and then clicks translate. The now translated text will apear in the text box to the right. To select the language to be translated to the user selects an option from the dropdown. 
 
 The Application consits of a node server running express as a middleware that serves the React.js front end and connests to the IBM service. This is all hosted in the clouse by Heroku.
@@ -28,3 +30,4 @@ To deploy the application to the cloud follow these steps
 Now the newest version has been deployed to the cloud and can be viewed at https://matthew-blades-project.herokuapp.com/
 
 
+## Diagrams
