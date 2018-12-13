@@ -86,7 +86,7 @@ class App extends Component {
         <div>
           <div className="row">
             <div className="col-6 input-box">
-              <p className="title-text">Input Text</p>
+              <p className="title-text">Input English Text</p>
               <textarea autoFocus onChange={this.handleChange} value={this.state.message} placeholder="Enter text here..." className="input-area"></textarea>
             </div>
             <div className="col-6 output-box">
