@@ -29,5 +29,17 @@ To deploy the application to the cloud follow these steps
 
 Now the newest version has been deployed to the cloud and can be viewed at https://matthew-blades-project.herokuapp.com/
 
+## Architecture Diagrams
 
-## Diagrams
+### Local Cloud: 
+![alt text](https://github.com/Mblades/marist-mscs621-matthew-blades/blob/master/Diagrams/blades-local-dev.png "Local Cloud Enviorment")
+
+### Production Cloud: 
+![alt text](https://github.com/Mblades/marist-mscs621-matthew-blades/blob/master/Diagrams/blades-production.png "Production Cloud Enviorment")
+
+### Communication:
+![alt text](https://github.com/Mblades/marist-mscs621-matthew-blades/blob/master/Diagrams/blades-communication.png "Communication")
+
+## API Specification
+
+This service is not consumed by others.
